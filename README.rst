@@ -7,7 +7,7 @@ This project is written in `Python <https://www.python.org/>`_ programming
 language and uses `FastAPI <https://fastapi.tiangolo.com/>`_ framework.
 
 How to run
-==========
+===========
 
 As the project is written in Python, you will need Python installed.
 Recommended version of Python is 3.7 and above.
